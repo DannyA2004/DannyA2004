@@ -75,9 +75,9 @@ Ago 2025 – Dic 2025  │  Practicante                    │  Skywell Culiacá
 
 <div align="center">
 
-![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DannyA2004&show_icons=true&theme=tokyonight&hide_border=true&locale=es)
+![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DannyA2004&show_icons=true&theme=tokyonight&hide_border=true&locale=es&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DannyA2004&layout=compact&theme=tokyonight&hide_border=true&locale=es)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DannyA2004&layout=compact&theme=tokyonight&hide_border=true&locale=es&cache_seconds=86400)
 
 </div>
 
