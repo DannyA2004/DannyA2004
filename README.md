@@ -3,7 +3,7 @@
 # Hola, soy Daniel Avila 👋
 ### Ingeniero de Software · Full Stack Developer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Recién+graduado+%F0%9F%8E%93;Full+Stack+Developer;React+%7C+Python+%7C+C%23;Open+to+work+%F0%9F%9F%A2)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+Python+%7C+C%23;Open+to+work+%F0%9F%9F%A2)](https://git.io/typing-svg)
 
 *Construyo productos web rápidos, accesibles y bien diseñados.*  
 *Me apasiona convertir ideas complejas en experiencias simples.*
